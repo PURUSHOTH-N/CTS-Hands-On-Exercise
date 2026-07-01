@@ -1,0 +1,9 @@
+INSERT INTO Accounts VALUES (101,1,'Savings',50000);
+INSERT INTO Accounts VALUES (102,2,'Savings',30000);
+INSERT INTO Accounts VALUES (103,3,'Current',70000);
+
+INSERT INTO Employees VALUES (1,'John','IT',50000);
+INSERT INTO Employees VALUES (2,'Alice','HR',45000);
+INSERT INTO Employees VALUES (3,'David','IT',60000);
+
+COMMIT;
